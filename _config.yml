@@ -1,0 +1,10 @@
+# Welcome to Jekyll!
+
+# Site settings
+title: lorenzoboaro.io
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://lorenzoboaro.io" # the base hostname & protocol for your site
+twitter_username: flexaddicted
+
+# Build settings
+markdown: kramdown
