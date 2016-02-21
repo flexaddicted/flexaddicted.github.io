@@ -14,5 +14,5 @@ Sometimes I write this blog where I share thoughts and feelings about Cocoa prog
 
 I’m not only fond of Apple development but I have also different research interests. In fact, during my Ph.D., I focused my effort on Web Services, specification and verification of software systems, Business Process Management, Case Management, Adaptive Case Management, Business Processes Modeling, Intelligent User Interfaces, User Interfaces Integration and Healthcare systems.
 
-You can find me also on <a href="https://twitter.com/flexaddicted">Twitter</a> and <a href="http://stackoverflow.com/users/231684/lorenzo-b">Stack Overflow</a>.
+You can find me also on <a href="https://twitter.com/flexaddicted" target="_blank">Twitter</a> and <a href="http://stackoverflow.com/users/231684/lorenzo-b" target="_blank">Stack Overflow</a>.
 
