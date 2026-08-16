@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rethinking view state management in SwiftUI without ViewModels"
-date:   2026-08-16 17:00:00 +0200
+date:   2026-08-16 16:00:00 +0200
 categories: swiftui viewmodel dependency-injection architecture
 ---
 
